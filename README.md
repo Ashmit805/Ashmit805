@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashmit805
 - 👀 I’m interested in coding and softwares and games
 - 🌱 I’m currently learning CSE ( software developement )
-- 💞️ I’m looking to collaborate on nothing fo rnow 
+- 💞️ I’m looking to collaborate on nothing for now 
 - 📫 How to reach me email - ashmit.rana@2019@gmail.com 
 
 <!---
